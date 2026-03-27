@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1 — 2026-03-27
+
+### Fixes
+- Updated extension icon to CCK community logo
+- Fixed repository URLs to match GitHub origin
+- Added `.vscodeignore` to reduce package size
+
 ## 1.0.0 — 2026-03-26
 
 ### Initial Release

@@ -2,7 +2,7 @@
   "name": "claude-kenya-theme",
   "displayName": "Claude Kenya — Savanna Dusk & Dawn",
   "description": "A stunning Claude-themed color palette for VS Code, crafted by Claude Community Kenya. Inspired by the warmth of Anthropic's brand fused with East African sunsets. Two variants: Savanna Dusk (dark) & Savanna Dawn (light).",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "claude-community-kenya",
   "author": {
     "name": "Claude Community Kenya",
@@ -34,10 +34,10 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/claude-community-kenya/claude-kenya-theme"
+    "url": "https://github.com/Spidey-Acer/claude-kenya-theme"
   },
   "bugs": {
-    "url": "https://github.com/claude-community-kenya/claude-kenya-theme/issues"
+    "url": "https://github.com/Spidey-Acer/claude-kenya-theme/issues"
   },
   "contributes": {
     "themes": [

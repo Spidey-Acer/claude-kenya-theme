@@ -1,0 +1,18 @@
+# Build artifacts
+*.vsix
+
+# Editor
+.vscode/
+!.vscode/extensions.json
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Claude Code
+.claude/
+
+# Environment
+.env
+.env.local

@@ -1,0 +1,9 @@
+.claude/
+.git/
+.gitignore
+.gitattributes
+*.vsix
+CLAUDE.md
+.vscode/
+.DS_Store
+Thumbs.db
